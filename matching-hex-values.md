@@ -18,6 +18,7 @@ Before we start a discussion over the process of matching hex values with regula
 - [Character Classes](#character-classes)
 - [Flags](#flags)
 - [Bracket Expressions](#bracket-expressions)
+- [Author](#author)
 
 ## Regex Components
 
